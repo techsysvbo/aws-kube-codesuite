@@ -4,7 +4,7 @@
 ############################################
 
 # Set base image to python
-FROM python:3.11.9
+FROM python:3.12.11
 
 # File Author / Maintainer
 MAINTAINER Omar Lari
